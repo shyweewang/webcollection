@@ -24,3 +24,7 @@ This file collects some excellent platforms for android performance.
   https://engineering.fb.com/2025/10/01/android/accelerating-our-android-apps-with-baseline-profiles/
 - LeakCanary 官方站（内存泄漏治理工具链）：LeakCanary 的官方文档入口，适合做内存泄漏治理的标准工具之一。
   https://developer.android.com/topic/performance/overview?hl=zh-cn
+# 4 其他
+- https://androidperformance.com/
+- https://github.com/Gracker/android-internals-wiki
+- 
